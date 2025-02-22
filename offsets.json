@@ -3403,6 +3403,7 @@
         "Fov_Offset": "0x561ff0",
         "LightSceneObject": "0x67bc0",
         "ScenSystem": "0x30470",
+        "Unlock_Inventory": "0x47f960",
         "hkDrawSceneObject": "0x55680"
     }
 }
