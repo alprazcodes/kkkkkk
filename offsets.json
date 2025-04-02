@@ -7,15 +7,15 @@
         "forward": "0x186CA90",
         "jump": "0x186CD60",
         "left": "0x186CBB0",
-        "lookatweapon": "0x1A92E30",
+        "lookatweapon": "0x1A92F10",
         "reload": "0x186C7C0",
         "right": "0x186CC40",
-        "showscores": "0x1A92D10",
+        "showscores": "0x1A92DF0",
         "sprint": "0x186C730",
         "turnleft": "0x186C970",
         "turnright": "0x186CA00",
         "use": "0x186CCD0",
-        "zoom": "0x1A92DA0"
+        "zoom": "0x1A92E80"
     },
     "CCSPlayer_MovementServices": {
         "m_vecLadderNormal": "0x218",
@@ -3349,23 +3349,23 @@
         "m_hOwner": "0x20"
     },
     "client_dll": {
-        "dwCSGOInput": "0x1A92F10",
-        "dwEntityList": "0x1A1F640",
-        "dwGameEntitySystem": "0x1B43E68",
+        "dwCSGOInput": "0x1A92FF0",
+        "dwEntityList": "0x1A1F730",
+        "dwGameEntitySystem": "0x1B43F58",
         "dwGameEntitySystem_highestEntityIndex": "0x20F0",
-        "dwGameRules": "0x1A84090",
+        "dwGameRules": "0x1A84170",
         "dwGlobalVars": "0x1867DB0",
-        "dwGlowManager": "0x1A840B0",
-        "dwLocalPlayerController": "0x1A6E8D0",
+        "dwGlowManager": "0x1A84190",
+        "dwLocalPlayerController": "0x1A6E9C0",
         "dwLocalPlayerPawn": "0x1874050",
-        "dwPlantedC4": "0x1A8E0E0",
+        "dwPlantedC4": "0x1A8E4A0",
         "dwPrediction": "0x1873ED0",
-        "dwSensitivity": "0x1A857F8",
+        "dwSensitivity": "0x1A85768",
         "dwSensitivity_sensitivity": "0x40",
-        "dwViewAngles": "0x1A932E0",
-        "dwViewMatrix": "0x1A89050",
-        "dwViewRender": "0x1A89860",
-        "dwWeaponC4": "0x1A226A0"
+        "dwViewAngles": "0x1A933C0",
+        "dwViewMatrix": "0x1A89130",
+        "dwViewRender": "0x1A89940",
+        "dwWeaponC4": "0x1A22630"
     },
     "engine2_dll": {
         "dwBuildNumber": "0x540BE4",
@@ -3377,8 +3377,8 @@
         "dwNetworkGameClient_maxClients": "0x238",
         "dwNetworkGameClient_serverTickCount": "0x36C",
         "dwNetworkGameClient_signOnState": "0x228",
-        "dwWindowHeight": "0x6234FC",
-        "dwWindowWidth": "0x6234F8"
+        "dwWindowHeight": "0x62354C",
+        "dwWindowWidth": "0x623548"
     },
     "inputsystem_dll": {
         "dwInputSystem": "0x387E0"
@@ -3393,9 +3393,9 @@
     },
     "Others": {
         "AnimGraph": "0x152160",
-        "Aspect_Ratio": "0x7ff850",
-        "Fov_Changer": "0x51e960",
-        "Fov_Offset": "0x559f70",
+        "Aspect_Ratio": "0x7fff60",
+        "Fov_Changer": "0x51f080",
+        "Fov_Offset": "0x55a690",
         "LightSceneObject": "0x67bc0",
         "ScenSystem": "0x30470",
         "hkDrawSceneObject": "0x55680"
