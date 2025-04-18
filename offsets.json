@@ -3392,7 +3392,7 @@
         "dwSoundSystem_engineViewData": "0x7C"
     },
     "Others": {
-        "AnimGraph": "0x152160",
+        "AnimGraph": "0x121288",
         "Aspect_Ratio": "0x7fff60",
         "Fov_Changer": "0x51f080",
         "Fov_Offset": "0x55a690",
