@@ -3393,11 +3393,11 @@
     },
     "Others": {
         "AnimGraph": "",
-        "Aspect_Ratio": "0x7fff60",
-        "Fov_Changer": "0x51f080",
-        "Fov_Offset": "0x55a690",
-        "LightSceneObject": "0x67sbc0",
-        "ScenSystem": "0xs30470",
-        "hkDrawSceneObject": "0x5s5680"
+        "Aspect_Ratio": "",
+        "Fov_Changer": "",
+        "Fov_Offset": "",
+        "LightSceneObject": "",
+        "ScenSystem": "",
+        "hkDrawSceneObject": ""
     }
 }
