@@ -3391,13 +3391,13 @@
         "dwSoundSystem": "0x3A15F0",
         "dwSoundSystem_engineViewData": "0x7C"
     },
-    "Others": {
-        "AnimGraph": "",
-        "Aspect_Ratio": "",
-        "Fov_Changer": "",
-        "Fov_Offset": "",
-        "LightSceneObject": "",
-        "ScenSystem": "",
-        "hkDrawSceneObject": ""
+    "Custom": {
+        "AnimGraph": "0x152160",
+        "Aspect_Ratio": "0x7fff60",
+        "Fov_Changer": "0x51f080",
+        "Fov_Offset": "0x55a690",
+        "LightSceneObject": "0x67bc0",
+        "ScenSystem": "0x30470",
+        "hkDrawSceneObject": "0x55680"
     }
 }
